@@ -1,2 +1,4 @@
 # swift_101
-Stanford online lectures about Swift.
+
+CS193p Stanford   
+Learned from: https://www.youtube.com/watch?v=jbtqIBpUG7g  
